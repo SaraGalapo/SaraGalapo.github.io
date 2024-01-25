@@ -1,4 +1,4 @@
-# Sara Galapo
+# __Sara Galapo__
 ## MY PROJECT TITLE
 ### INSERT IMAGE
 ### LINK
