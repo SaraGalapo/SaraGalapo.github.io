@@ -1,4 +1,4 @@
 # __Sara Galapo__
 ## MY PROJECT TITLE
-### INSERT IMAGE
+<img src="profile.jpeg" width="200" height= "250">
 ### LINK
