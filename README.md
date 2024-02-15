@@ -1,4 +1,4 @@
 # __Sara Galapo__
 ## MY PROJECT TITLE
-<img src="profile.jpeg" width="200" height= "250">
+[profile.jpeg](https://github.com/SaraGalapo/test/blob/main/profile.jpeg)https://github.com/SaraGalapo/test/blob/main/profile.jpeg] 
 ### LINK
